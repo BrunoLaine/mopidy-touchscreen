@@ -33,7 +33,7 @@ class ScreenManager():
         self.cache = cache
         self.fonts = {}
         self.background = None
-        self.current_screen = library_index
+        self.current_screen = main_screen_index
 
         # Init variables in init
         self.base_size = None
